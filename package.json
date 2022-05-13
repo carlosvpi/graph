@@ -1,0 +1,16 @@
+{
+  "name": "graph",
+  "version": "1.0.0",
+  "description": "Node js utilities for working with graphs",
+  "main": "index.js",
+  "repository": "https://github.com/carlosvpi/graph.git",
+  "author": "CarlosVazPI <carlos.vazpi@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha"
+  },
+  "type": "module",
+  "devDependencies": {
+    "mocha": "^9.2.2"
+  }
+}
